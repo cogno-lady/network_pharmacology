@@ -1,0 +1,25 @@
+Target,Drug,Type,Status
+TNF,Infliximab,Biologic,Approved
+TNF,Adalimumab,Biologic,Approved
+TNF,Etanercept,Small Molecule,Approved
+TNF,Certolizumab,Biologic,Clinical
+IL6,Tocilizumab,Biologic,Approved
+IL6,Sarilumab,Biologic,Clinical
+IL6,Siltuximab,Biologic,Clinical
+IL1B,Anakinra,Small Molecule,Clinical
+IL1B,Canakinumab,Biologic,Clinical
+IL1B,Rilonacept,Small Molecule,Clinical
+PTGS2,Celecoxib,Small Molecule,Approved
+PTGS2,Etoricoxib,Small Molecule,Clinical
+VEGFA,Bevacizumab,Biologic,Approved
+VEGFA,Ranibizumab,Biologic,Clinical
+VEGFA,Aflibercept,Small Molecule,Clinical
+MMP9,Batimastat,Small Molecule,Clinical
+MMP9,Marimastat,Small Molecule,Clinical
+AKT1,MK-2206,Small Molecule,Clinical
+AKT1,Ipatasertib,Small Molecule,Clinical
+AKT1,Capivasertib,Small Molecule,Clinical
+STAT3,Stattic,Small Molecule,Clinical
+STAT3,OPB-31121,Small Molecule,Clinical
+MAPK3,Ulixertinib,Small Molecule,Clinical
+MAPK3,SCH772984,Small Molecule,Clinical

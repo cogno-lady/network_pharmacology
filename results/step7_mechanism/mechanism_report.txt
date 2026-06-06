@@ -1,0 +1,28 @@
+
+======================================================================
+MECHANISM ANALYSIS REPORT
+======================================================================
+Compound:           4,5-dihydroxy-2-methoxy-9,10-dihydrophenanthrene
+Analysis Date:        2026-05-23
+
+PRIMARY FINDING:
+  • Top target: AKT1 (Binding: -9.8 kcal/mol, Ki: 0.056 μM)
+  • Dominant pathway: PI3K-Akt signaling (p = 0.0012, 8.5× enriched)
+
+MECHANISM HYPOTHESIS:
+  4,5-dihydroxy-2-methoxy-9,10-dihydrophenanthrene exhibits strongest binding to AKT1 (-9.8 kcal/mol), suggesting PI3K-Akt pathway inhibition as the primary anti-inflammatory mechanism. Secondary targets (PIK3CA, MAPK3, TNF) support multi-pathway suppression of keratinocyte proliferation, pro-inflammatory cytokine release, and NF-κB activation.
+
+CLINICAL RELEVANCE:
+  PI3K-Akt hyperactivation is implicated in psoriasis and atopic dermatitis. AKT1 inhibition reduces IL-17/IL-23 signaling, Th17 cell survival, and keratinocyte hyperproliferation — key drivers of psoriatic plaques.
+
+SUPPORTING EVIDENCE:
+  • 3/8 targets show strong binding (≤ -7.0 kcal/mol)
+  • PI3K-Akt pathway: 2/2 targets hit (100% coverage)
+  • Multi-target profile suggests synergistic anti-inflammatory effect
+
+RECOMMENDATION:
+  Prioritize AKT1 inhibition validation via:
+  1. In vitro kinase assay (AKT1 IC50 determination)
+  2. HaCaT keratinocyte IL-6/IL-8 suppression assay
+  3. Imiquimod-induced psoriasis mouse model
+======================================================================

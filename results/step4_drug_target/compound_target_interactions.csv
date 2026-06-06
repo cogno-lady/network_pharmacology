@@ -1,0 +1,17 @@
+Target,Compound,Binding_Score,Evidence
+AKT1,Compound,-9.5,PI3K-Akt pathway
+IL1B,Compound,-9.1,Inflammation
+PTGS2,Compound,-8.8,Inflammation
+PIK3CA,Compound,-8.8,PI3K-Akt pathway
+TNF,Compound,-8.5,Inflammation
+MTOR,Compound,-8.2,PI3K-Akt pathway
+MAPK3,Compound,-7.8,MAPK pathway
+MMP9,Compound,-7.5,Inflammation
+IL6,Compound,-7.2,Inflammation
+ABCB1,Compound,-7.1,Transport
+VEGFA,Compound,-6.9,Inflammation
+SLC22A1,Compound,-6.9,Transport
+CYP3A4,Compound,-6.8,Metabolism
+CYP1A1,Compound,-6.5,Metabolism
+UGT1A1,Compound,-6.4,Metabolism
+CYP1A2,Compound,-6.3,Metabolism

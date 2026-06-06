@@ -1,0 +1,9 @@
+Target,Pathway,Binding_Affinity_kcal_mol,Ki_uM
+AKT1,PI3K-Akt,-9.8,0.056
+PIK3CA,PI3K-Akt,-8.5,0.612
+MAPK3 (ERK1),MAPK/ERK,-7.9,1.45
+TNF,NF-kB,-7.2,4.89
+IL6,JAK-STAT,-6.8,9.12
+COX2 (PTGS2),Inflammation,-6.5,15.4
+IL1B,Inflammasome,-6.1,32.8
+MMP9,ECM Remodeling,-5.4,112.5
